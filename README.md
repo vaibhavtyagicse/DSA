@@ -65,3 +65,15 @@ DSA/
 │   └── Basic C programming practice
 │
 └── 📄 README.md
+
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vaibhavtyagicse/DSA/tree/master/0066-plus-one) |
+## Math
+|  |
+| ------- |
+| [0066-plus-one](https://github.com/vaibhavtyagicse/DSA/tree/master/0066-plus-one) |
+<!---LeetCode Topics End-->
