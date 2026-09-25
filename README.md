@@ -77,6 +77,7 @@ DSA/
 ## Math
 |  |
 | ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavtyagicse/DSA/tree/master/0002-add-two-numbers) |
 | [0066-plus-one](https://github.com/vaibhavtyagicse/DSA/tree/master/0066-plus-one) |
 ## Two Pointers
 |  |
@@ -90,4 +91,12 @@ DSA/
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/vaibhavtyagicse/DSA/tree/master/0001-two-sum) |
+## Linked List
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavtyagicse/DSA/tree/master/0002-add-two-numbers) |
+## Recursion
+|  |
+| ------- |
+| [0002-add-two-numbers](https://github.com/vaibhavtyagicse/DSA/tree/master/0002-add-two-numbers) |
 <!---LeetCode Topics End-->
